@@ -1,0 +1,16 @@
+{
+  "name": "hillarious-bot",
+  "version": "1.0.0",
+  "description": "A bot to make competing easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atomicproton",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  }
+}
