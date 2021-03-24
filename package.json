@@ -10,6 +10,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "discord.js": "^12.5.1",
+    "eslint": "^7.22.0",
     "sequelize": "^6.6.2",
     "sqlite3": "^5.0.2"
   }

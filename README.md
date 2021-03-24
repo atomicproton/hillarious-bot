@@ -1,2 +1,2 @@
 # Hillarious-Bot
- A bot to make competing easier
+ A Discord bot to make competing easier
