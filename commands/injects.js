@@ -3,7 +3,7 @@ const {Op} = require('sequelize');
 
 module.exports = {
     name: 'injects',
-    usage: ['', '[minimum inject number'],
+    usage: ['', '[minimum inject number]'],
     description: "Lists all injects for this guild",
 
     async execute(message, args) {

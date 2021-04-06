@@ -4,7 +4,7 @@ module.exports = {
     name: 'registerchannel',
     description: 'Registers this discord channel as the notifications channel',
     usage: '',
-    permissions: ["MANAGE_GUILD "],
+    permissions: ["MANAGE_GUILD"],
     guildOnly: true,
 
     execute(message, args) {
